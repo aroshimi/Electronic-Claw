@@ -1,7 +1,9 @@
 # Robotic Gripper - First Solo Project
 
 **Author:** Lucas Miguel Velez Souza
+
 **Course:** Mechanical Engineering
+
 **Institution:** ederal University of Maranhão (UFMA) 
 
 **Description:**

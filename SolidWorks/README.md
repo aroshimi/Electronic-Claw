@@ -15,3 +15,5 @@ The primary goal of this project is to **enhance my proficiency in specific tech
 * **Code:** Source code for controlling the gripper, including firmware for microcontrollers and control algorithms.
 * **Documentation:** Technical documentation, design specifications, and assembly instructions.
 * **Testing:** Results and data from testing and validation.
+
+### Visuals

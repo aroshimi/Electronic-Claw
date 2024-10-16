@@ -1,10 +1,14 @@
 # Robotic Gripper Project
 
 ### Overview
-This repository is dedicated to documenting the development of a robotic gripper. Here, you will find design files, code, and other relevant resources related to this project. 
+This repository houses the development of a robotic gripper. Here, you'll find design files, code, and other resources related to this project.
 
 ### Project Goals
-* [List your specific project goals here, such as: design and build a gripper capable of picking up objects of various sizes and weights, integrate with a robotic arm, etc.]
+The primary goal of this project is to **enhance my proficiency in specific technologies or skills, e.g., robotics, programming, 3D modeling** by:
+
+* Designing and building a functional robotic gripper.
+* Implementing control algorithms for precise movements.
+* Experimenting with different materials and mechanisms.
 
 ### Project Structure
 * **CAD Models:** 3D models of the gripper components created using [software name, e.g., SolidWorks, Fusion 360].

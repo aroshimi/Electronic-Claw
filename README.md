@@ -34,7 +34,6 @@ This repository contains the CAD files of my first solo project: a robotic gripp
 * Feel free to contribute to this project or send me suggestions.
 
 **Images:**
-
-[Add images of your robotic gripper from different angles to illustrate the project. You can use GitHub Markdown to embed the images directly into the README.]
+( add depois )
 
 ( depois terminar )

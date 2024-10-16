@@ -21,7 +21,7 @@ This repository contains the CAD files of my first solo project: a robotic gripp
 
 **Functionality:**
 
-* [Describe the functionalities of your robotic gripper here, e.g., load capacity, reach, type of movement, etc.]
+* Our robotic gripper is designed to be extremely versatile, adapting to a wide range of tasks. With its precision and strength, it can be used in various environments and applications, from industry to home use.
 
 **Technologies Used:**
 

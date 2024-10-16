@@ -17,3 +17,4 @@ The primary goal of this project is to **enhance my proficiency in specific tech
 * **Testing:** Results and data from testing and validation.
 
 ### Visuals
+![image](https://github.com/user-attachments/assets/39c41049-77b1-4b62-8f95-51a994a18284)

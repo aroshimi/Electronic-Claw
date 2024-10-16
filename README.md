@@ -1,4 +1,5 @@
 # Robotic Gripper - First Solo Project
+**PROJECT IN PROGRESS, UNFINISHED!!!!!**
 
 **Author:** Lucas Miguel Velez Souza
 
